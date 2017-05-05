@@ -19,8 +19,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	"bytes"
-	 "encoding/json"
+	"encoding/json"
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 )
 
